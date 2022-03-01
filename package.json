@@ -1,0 +1,15 @@
+{
+  "name": "dev.meet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "json-server --port 3001 ./events.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
